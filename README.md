@@ -103,7 +103,8 @@ The objective of ClimateScope is to analyze and visually represent global weathe
 - Build static and interactive visualizations using chosen tools (Plotly, Tableau, Power BI, D3.js).  
 - Integrate filters, sliders, and region selectors for user interactivity.  
 - Refine visualization aesthetics and user experience (consistent color schemes, clear labels).  
-- Highlight notable findings and insights from the interactive dashboard.  
+- Highlight notable findings and insights from the interactive dashboard.
+- ![Correlation Matrix](correlation_matrix.png)  
 
 **Evaluation:**
 - **Deliverable:** A near-complete interactive dashboard prototype with most planned features implemented.  
